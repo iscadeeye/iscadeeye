@@ -1,4 +1,4 @@
-## Hi there 👋 Mohamed
+## Hi there, Mohamed Hassan 👋 
 I am Front End Software Engineer
 
 <!--
