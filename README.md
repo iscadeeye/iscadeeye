@@ -1,20 +1,14 @@
 ### Hi there 👋, Mohamed Hassan
 #### Front-End Developer
-I am Mohamed Hassan, and I am a junior front-end developer. I loved learning JavaScript during my Bootcamp. 
-
+I am a junior front-end developer. I loved learning JavaScript during my Bootcamp. 
 
 Skills: JavaScript / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning ES6 to further my JS skills. 
-- 📫 How to reach me: hdeeq414@gmail.com 
+- 📫 How to reach me: 913-963-8295 || hdeeq414@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/iscadeeye)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/mhassan77/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Mohamed75725590)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/iscadeeye)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/iscadeeye&show_icons=true)  
 
 
 
