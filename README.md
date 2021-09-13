@@ -14,7 +14,7 @@ Skills: JavaScript / HTML / CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscadeeye)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projects:
+## Projects:
 * [my porfolio](https://iscadeeye.github.io/my-porfolio/)
 * [quiz app](https://iscadeeye.github.io/Triva-quiz-app/)
 * [Pig Latin Translator App.](https://iscadeeye.github.io/pig-latin-translator-app/)
