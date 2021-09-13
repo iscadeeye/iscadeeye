@@ -13,7 +13,8 @@ Skills: JavaScript / HTML / CSS
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscadeeye)](https://github.com/anuraghazra/github-readme-stats)
-#Codewars Kata6 I solved:
+
+# Codewars Kata 6 I solved:
 * [Who likes this](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 * [Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155)
 * [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
