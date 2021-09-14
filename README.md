@@ -1,6 +1,6 @@
 ### Hi there 👋, Mohamed Hassan
 #### Front-End Developer
-I am a junior front-end developer. I loved learning JavaScript during my Bootcamp. 
+I am a junior front-end developer. I loved learning JavaScript and CSS during my Bootcamp. 
 
 Skills: JavaScript / HTML / CSS
 
@@ -21,7 +21,7 @@ Skills: JavaScript / HTML / CSS
 
 
 ## Projects:
-* [My porfolio](https://iscadeeye.github.io/my-porfolio/)
+* [My porfolio]( https://iscadeeye.github.io/my-porfolio/)
 * [quiz app](https://iscadeeye.github.io/Triva-quiz-app/)
 * [Pig Latin Translator App.](https://iscadeeye.github.io/pig-latin-translator-app/)
 * [Dog day care app](https://iscadeeye.github.io/Dog-day-care-app/).
