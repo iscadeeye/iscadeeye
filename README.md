@@ -18,6 +18,7 @@ Skills: JavaScript / HTML / CSS
 * [Who likes this](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 * [Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155)
 * [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+* [Hightest scoring word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 
 
 ## Projects:
