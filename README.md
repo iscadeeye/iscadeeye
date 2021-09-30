@@ -21,6 +21,7 @@ Skills: JavaScript / HTML / CSS
 * [Hightest scoring word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/solutions/javascript/me/best_practice)
 * [Are they the same](https://www.codewars.com/kata/550498447451fbbd7600041c/solutions/javascript/me/best_practice)
 * [encryptThis](https://www.codewars.com/users/iscadeeye/completed_solutions)
+* [Create phone number](https://www.codewars.com/users/iscadeeye/completed_solutions)
 
 
 ## Projects:
