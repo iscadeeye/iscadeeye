@@ -23,6 +23,7 @@ Skills: JavaScript / HTML / CSS
 * [encryptThis](https://www.codewars.com/users/iscadeeye/completed_solutions)
 * [Create phone number](https://www.codewars.com/users/iscadeeye/completed_solutions)
 * [Reverse every other word string](https://www.codewars.com/kata/58d76854024c72c3e20000de/solutions/javascript/me/best_practice)
+* [Does my number look big in this](https://www.codewars.com/kata/5287e858c6b5a9678200083c/solutions/javascript/me/best_practice)
 
 
 ## Projects:
