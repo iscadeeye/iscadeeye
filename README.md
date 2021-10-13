@@ -22,6 +22,7 @@ Skills: JavaScript / HTML / CSS
 * [Are they the same](https://www.codewars.com/kata/550498447451fbbd7600041c/solutions/javascript/me/best_practice)
 * [encryptThis](https://www.codewars.com/users/iscadeeye/completed_solutions)
 * [Create phone number](https://www.codewars.com/users/iscadeeye/completed_solutions)
+* [Reverse every other word string](https://www.codewars.com/kata/58d76854024c72c3e20000de/solutions/javascript/me/best_practice)
 
 
 ## Projects:
