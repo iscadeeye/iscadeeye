@@ -2,7 +2,7 @@
 #### Front-End Developer
 I am a junior front-end developer. I loved learning JavaScript and CSS during my Bootcamp. 
 
-Skills: JavaScript / HTML / CSS
+Skills: JavaScript /Java/ HTML / CSS
 
 - 🌱 I’m currently learning ES6 to further my JS skills. 
 - 📫 How to reach me: 913-963-8295 || hdeeq414@gmail.com 
