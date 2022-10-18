@@ -1,10 +1,9 @@
 ### Hi there 👋, Mohamed Hassan
-#### Front-End Developer
-I am a junior front-end developer. I loved learning JavaScript and CSS during my Bootcamp. 
+#### Software engineer
 
-Skills: JavaScript /Java/ HTML / CSS
+Skills: Java | Python | C++ | javascript | HTML | CSS
 
-- 🌱 I’m currently learning ES6 to further my JS skills. 
+- 🌱 I am currently taking CS classes at SNHU. CS degree journey is just start out. I plan to finish my CS degree by May 2026.
 - 📫 How to reach me: 913-963-8295 || hdeeq414@gmail.com 
 
 
