@@ -31,3 +31,9 @@ Skills: Java | Python | C++ | javascript | HTML | CSS
 * [Pig Latin Translator App.](https://iscadeeye.github.io/pig-latin-translator-app/)
 * [Dog day care app](https://iscadeeye.github.io/Dog-day-care-app/).
 
+
+
+## Mini Projects
+
+
+
