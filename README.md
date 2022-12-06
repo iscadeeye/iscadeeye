@@ -34,7 +34,7 @@ Skills: Java | Python | C++ | javascript | HTML | CSS
 
 
 ## School projects
-* [Flight Reservation](https://github.com/iscadeeye/FlightReservation)
+* [Rescue animal](https://github.com/iscadeeye/Rescue_animal)
 
 
 
