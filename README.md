@@ -34,7 +34,7 @@ Skills: Java | Python | C++ | javascript | HTML | CSS
 
 
 ## School projects
-* [Rescue animal](https://github.com/iscadeeye/Rescue_animal)
+* [Rescue animal](https://github.com/iscadeeye/Rescue_animal/tree/main/src/academy/learningProgramming)
 
 
 
