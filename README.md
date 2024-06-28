@@ -1,7 +1,7 @@
 ### Hi there 👋, Mohamed Hassan
 ## Software engineer
 
-Skills: Java | Python | C++ | javascript | HTML | CSS
+Skills: Java | Python| javascript | HTML | CSS
 
 - 🌱 I am currently taking CS classes at SNHU. my CS degree journey is just start out. I plan to finish my CS degree by May 2026.
 - 📫 How to reach me: 913-963-8295 || hdeeq414@gmail.com 
